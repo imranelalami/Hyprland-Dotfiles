@@ -1,1 +1,1 @@
-![alt text](https://github.com/imranelalami/Hyprland-Dotfiles/blob/main/hyde/themes/Catppuccin%20Mocha/wallpapers/1%20rain_world.png)
+![alt text](https://github.com/imranelalami/Hyprland-Dotfiles/blob/main/hyde/themes/250223_18h38m07s_screenshot.png)
